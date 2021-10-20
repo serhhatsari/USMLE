@@ -31,4 +31,4 @@ If you have any problems, feel free to email us by adding your mail that you hav
 
 Also if you have any questions or suggestions about the app, you can email us : (usmletimer@gmail.com)
 
-Thank you!
+**Thank you!**
